@@ -1,0 +1,10 @@
+artifact_location: file:C:/Users/Priyanka Das/CodeIt/SmartPhoneUsage_Addiction/mlruns/0/models/m-13e885d21c284a32ad4bdaf54da96486/artifacts
+creation_timestamp: 1756153564554
+experiment_id: '0'
+last_updated_timestamp: 1756153578199
+model_id: m-13e885d21c284a32ad4bdaf54da96486
+model_type: null
+name: model
+source_run_id: 46495f35114b465f8d236bd81dfd1b4a
+status: 2
+status_message: null

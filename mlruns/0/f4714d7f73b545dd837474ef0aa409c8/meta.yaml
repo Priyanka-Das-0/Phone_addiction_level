@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/Priyanka Das/CodeIt/SmartPhoneUsage_Addiction/mlruns/0/f4714d7f73b545dd837474ef0aa409c8/artifacts
+end_time: 1756171906128
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f4714d7f73b545dd837474ef0aa409c8
+run_name: Logistic Regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756171895056
+status: 3
+tags: []
+user_id: Priyanka Das

@@ -1,0 +1,54 @@
+columns:
+  - ID: int64
+  - Age: int64
+  - Gender: object
+  - Location: object
+  - School_Grade: object
+  - Daily_Usage_Hours: float64
+  - Sleep_Hours: float64
+  - Academic_Performance: int64
+  - Social_Interactions: int64
+  - Exercise_Hours: float64
+  - Anxiety_Level: int64
+  - Depression_Level: int64
+  - Self_Esteem: int64
+  - Parental_Control: int64
+  - Screen_Time_Before_Bed: float64
+  - Phone_Checks_Per_Day: int64
+  - Apps_Used_Daily: int64
+  - Time_on_Social_Media: float64
+  - Time_on_Gaming: float64
+  - Time_on_Education: float64
+  - Phone_Usage_Purpose: object
+  - Family_Communication: int64
+  - Weekend_Usage_Hours: float64
+  - Addiction_Level: int64   # 🎯 Target Column
+
+numerical_columns:
+  - Age
+  - Daily_Usage_Hours
+  - Sleep_Hours
+  - Academic_Performance
+  - Social_Interactions
+  - Exercise_Hours
+  - Anxiety_Level
+  - Depression_Level
+  - Self_Esteem
+  - Parental_Control
+  - Screen_Time_Before_Bed
+  - Phone_Checks_Per_Day
+  - Apps_Used_Daily
+  - Time_on_Social_Media
+  - Time_on_Gaming
+  - Time_on_Education
+  - Family_Communication
+  - Weekend_Usage_Hours
+
+categorical_columns:
+  - Gender
+  - Location
+  - School_Grade
+  - Phone_Usage_Purpose
+
+target_column:
+  - Addiction_Level

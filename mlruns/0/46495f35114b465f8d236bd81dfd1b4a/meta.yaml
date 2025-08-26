@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/Priyanka Das/CodeIt/SmartPhoneUsage_Addiction/mlruns/0/46495f35114b465f8d236bd81dfd1b4a/artifacts
+end_time: 1756153578218
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 46495f35114b465f8d236bd81dfd1b4a
+run_name: Keras-MLP
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756153564396
+status: 3
+tags: []
+user_id: Priyanka Das

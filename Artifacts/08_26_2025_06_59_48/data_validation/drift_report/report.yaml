@@ -1,0 +1,75 @@
+Academic_Performance:
+  drift_status: false
+  p_value: 0.7443618176467902
+Addiction_Level:
+  drift_status: false
+  p_value: 0.9869025932135594
+Age:
+  drift_status: false
+  p_value: 0.7737522957049567
+Anxiety_Level:
+  drift_status: false
+  p_value: 0.9297367534279039
+Apps_Used_Daily:
+  drift_status: false
+  p_value: 0.32276825390221614
+Daily_Usage_Hours:
+  drift_status: false
+  p_value: 0.1849730401812276
+Depression_Level:
+  drift_status: false
+  p_value: 0.5463850581252313
+Exercise_Hours:
+  drift_status: false
+  p_value: 0.9597023694318817
+Family_Communication:
+  drift_status: false
+  p_value: 0.9111317643622697
+Gender:
+  drift_status: false
+  p_value: 0.9758133160265479
+ID:
+  drift_status: false
+  p_value: 0.6375552375873041
+Location:
+  drift_status: false
+  p_value: 0.714269355643098
+Name:
+  drift_status: false
+  p_value: 0.6221773548111534
+Parental_Control:
+  drift_status: false
+  p_value: 0.9999999999979294
+Phone_Checks_Per_Day:
+  drift_status: false
+  p_value: 0.9869025932135594
+Phone_Usage_Purpose:
+  drift_status: false
+  p_value: 0.357241272940467
+School_Grade:
+  drift_status: false
+  p_value: 0.999999970746363
+Screen_Time_Before_Bed:
+  drift_status: false
+  p_value: 0.8550730013210243
+Self_Esteem:
+  drift_status: false
+  p_value: 0.9837212452370956
+Sleep_Hours:
+  drift_status: false
+  p_value: 0.9381457526970756
+Social_Interactions:
+  drift_status: false
+  p_value: 0.32276825390221614
+Time_on_Education:
+  drift_status: false
+  p_value: 0.5315795076652179
+Time_on_Gaming:
+  drift_status: false
+  p_value: 0.9800349561321743
+Time_on_Social_Media:
+  drift_status: false
+  p_value: 0.46015084264196626
+Weekend_Usage_Hours:
+  drift_status: false
+  p_value: 0.714269355643098

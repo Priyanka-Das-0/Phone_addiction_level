@@ -1,0 +1,20 @@
+artifact_path: file:C:/Users/Priyanka Das/CodeIt/SmartPhoneUsage_Addiction/mlruns/0/models/m-13e885d21c284a32ad4bdaf54da96486/artifacts
+flavors:
+  keras:
+    data: data
+    keras_backend: tensorflow
+    keras_version: 3.11.3
+    save_exported_model: false
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.keras
+    python_version: 3.13.6
+mlflow_version: 3.2.0
+model_id: m-13e885d21c284a32ad4bdaf54da96486
+model_size_bytes: 217170
+model_uuid: m-13e885d21c284a32ad4bdaf54da96486
+prompts: null
+run_id: 46495f35114b465f8d236bd81dfd1b4a
+utc_time_created: '2025-08-25 20:26:04.623819'

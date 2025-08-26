@@ -1,0 +1,5 @@
+ID,Name,Age,Gender,Location,School_Grade,Daily_Usage_Hours,Sleep_Hours,Academic_Performance,Social_Interactions,Exercise_Hours,Anxiety_Level,Depression_Level,Self_Esteem,Parental_Control,Screen_Time_Before_Bed,Phone_Checks_Per_Day,Apps_Used_Daily,Time_on_Social_Media,Time_on_Gaming,Time_on_Education,Phone_Usage_Purpose,Family_Communication,Weekend_Usage_Hours
+201,Alex,16,Male,Urban,10th,7,5.5,65,2,1,8,7,4,1,3.5,120,25,4,2,0.5,Gaming,2,9
+202,Brenda,14,Female,Suburban,9th,3.5,8,92,5,2.5,2,1,8,4,1,30,15,1.5,0,1,Education,5,4
+203,Chris,17,Male,Rural,11th,6,6,78,3,,6,4,5,2,2,85,20,3,2,0.5,Social,3,8.5
+204,Diana,15,Female,Urban,10th,5,7,85,4,1.5,4,3,7,3,1.5,60,18,2.5,1,1,Browsing,4,6
